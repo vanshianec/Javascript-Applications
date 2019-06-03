@@ -1,0 +1,9 @@
+body {
+    background: url("../images/hands-with-pencil-and-ruler.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.blue-container {
+    background: #17A2B8;
+}
